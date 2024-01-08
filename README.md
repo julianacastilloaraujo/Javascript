@@ -10,7 +10,8 @@
 # Plataforma: Platzi💚
 * Platzi(@platzi)
 
-# Herramientas usadas 💻
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Node.js](https://nodejs.org/en)
-* [EmojiKeyboard](https://emojikeyboard.top/)
+> [! NOTE  ] 
+> Herramientas usadas 💻
+> [Visual Studio Code](https://code.visualstudio.com/)
+> [Node.js](https://nodejs.org/en)
+> [EmojiKeyboard](https://emojikeyboard.top/)
