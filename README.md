@@ -8,7 +8,7 @@
 * @degranda
   
 # Plataforma: Platzi💚
-* Platzi (@platzi)
+* Platzi(@platzi)
 
 # Herramientas usadas 💻
 * [Visual Studio Code](https://code.visualstudio.com/)
