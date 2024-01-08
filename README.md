@@ -8,7 +8,7 @@
 * @degranda
   
 # Plataforma: Platzi💚
-* Platzi(@platzi)
+* Platzi (@platzi)
 
 > [!IMPORTANT]
 > Herramientas usadas 💻
