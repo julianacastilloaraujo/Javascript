@@ -10,7 +10,7 @@
 # Plataforma: Platzi💚
 * Platzi(@platzi)
 
-> [!IMPORTANT] <br>
+> [!IMPORTANT]
 > Herramientas usadas 💻
 > [Visual Studio Code](https://code.visualstudio.com/)
 > [Node.js](https://nodejs.org/en)
