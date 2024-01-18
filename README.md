@@ -12,7 +12,7 @@
 * Platzi (@platzi)
 
 > [!IMPORTANT]
-> Herramientas usadas 💻 <br>
+> Herramientas usadas en el 1 modulo 💻 <br>
 > 👩‍💻 [Visual Studio Code](https://code.visualstudio.com/) <br>
 > ✅ [Node.js](https://nodejs.org/en) <br>
 > 😀 [EmojiKeyboard](https://emojikeyboard.top/) <br>
