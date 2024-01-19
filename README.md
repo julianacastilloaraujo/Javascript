@@ -16,3 +16,5 @@
 > 👩‍💻 [Visual Studio Code](https://code.visualstudio.com/) <br>
 > ✅ [Node.js](https://nodejs.org/en) <br>
 > 😀 [EmojiKeyboard](https://emojikeyboard.top/) <br>
+
+# Perfil en @platzi 
