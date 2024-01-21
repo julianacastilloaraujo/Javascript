@@ -18,4 +18,4 @@
 > 😀 [EmojiKeyboard](https://emojikeyboard.top/) 
 
 # Perfil en @platzi 
-* [-> Mi perfil en platzi 💚]()
+* [-> Mi perfil en platzi 💚](https://platzi.com/p/julianacastilloaraujo/)
