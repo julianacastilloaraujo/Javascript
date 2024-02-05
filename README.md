@@ -9,7 +9,8 @@
 * Diego de Granda @degranda
   
 # Plataforma: Platzi💚
-* Platzi (@platzi)
+* @platzi
+* [-> Enlace Web](https://platzi.com/new-home/)
 
 > [!IMPORTANT]
 > Herramientas usadas en el 1 modulo 💻 <br>
