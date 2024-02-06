@@ -1,5 +1,5 @@
 # Curso de JavaScript desde Cero 💚 | Con 👩‍💻 @teffcode y 🧑‍💻 @degranda
-* [-> Enlace directo al Curso de JavaScript desde Cero con Platzi](https://platzi.com/cursos/javascript-fundamentos/)
+* [-> Enlace Curso de JavaScript desde Cero con Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 * 45 clases | 4 modulos 
 * Que emocionante comenzar esta aventura 🚀 
 * Comencemos a aprender JavaScript 💛 con el curso <strong>#CursoDeJavaScriptDesdeCero</strong> 
@@ -9,7 +9,8 @@
 * Diego de Granda @degranda
   
 # Plataforma: Platzi💚
-* Platzi (@platzi)
+* @platzi
+* [-> Enlace Web](https://platzi.com/new-home/)
 
 > [!IMPORTANT]
 > Herramientas usadas en el 1 modulo 💻 <br>
