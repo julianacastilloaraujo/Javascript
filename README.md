@@ -2,7 +2,7 @@
 
 ### Con 👩‍💻 @teffcode y 🧑‍💻 @degranda
 
-[![Enlace Curso de JavaScript desde Cero con Platzi](https://platzi.com/cursos/javascript-fundamentos/)](https://platzi.com/cursos/javascript-fundamentos/)
+[Enlace Curso de JavaScript desde Cero con Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
 ## Detalles del Curso
 - **79 clases | 9 módulos**
