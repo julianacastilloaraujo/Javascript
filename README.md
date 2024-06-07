@@ -26,5 +26,6 @@
 > - ✅ [Node.js](https://nodejs.org/en)
 > - 😀 [EmojiKeyboard](https://emojikeyboard.top/)
 
-## Mi Perfil en Platzi
+## Conéctate en Platzi
 - [Visita mi perfil en Platzi 💚](https://platzi.com/p/julianacastilloaraujo/)
+- Únete a la comunidad de estudiantes y sigue mi progreso.
