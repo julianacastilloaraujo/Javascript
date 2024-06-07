@@ -1,6 +1,6 @@
 # Curso de JavaScript desde Cero 💚
 
-### Con 👩‍💻 @teffcode y 🧑‍💻 @degranda
+### Con 👩‍💻 [@teffcode](https://twitter.com/teffcode) y 🧑‍💻 [@degranda](https://twitter.com/degranda)
 
 [Enlace Curso de JavaScript desde Cero con Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
@@ -13,7 +13,7 @@
 - **Estefany Aguilar** [@teffcode](https://twitter.com/teffcode)
 - **Diego de Granda** [@degranda](https://twitter.com/degranda)
 
-## Plataforma: Platzi💚
+## Plataforma: Platzi 💚
 - **Platzi** [@platzi](https://twitter.com/platzi)
 - [Enlace a la web de Platzi](https://platzi.com/new-home/)
 
