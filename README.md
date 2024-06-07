@@ -1,8 +1,10 @@
 # Curso de JavaScript desde Cero 💚
 
-### Con 👩‍💻 [@teffcode](https://twitter.com/teffcode) y 🧑‍💻 [@degranda](https://twitter.com/degranda)
+### Impartido por
+- 👩‍💻 [Estefany Aguilar (@teffcode)](https://twitter.com/teffcode)
+- 🧑‍💻 [Diego de Granda (@degranda)](https://twitter.com/degranda)
 
-[Enlace Curso de JavaScript desde Cero con Platzi](https://platzi.com/cursos/javascript-fundamentos/)
+[➡️ Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
 ## Detalles del Curso
 - **79 clases | 9 módulos**
@@ -10,12 +12,12 @@
 - Comencemos a aprender JavaScript 💛 con el curso **#CursoDeJavaScriptDesdeCero**
 
 ## Profesores de Platzi 🇨🇴🇲🇽
-- **Estefany Aguilar** [@teffcode](https://twitter.com/teffcode)
-- **Diego de Granda** [@degranda](https://twitter.com/degranda)
+- **Estefany Aguilar** - [@teffcode](https://twitter.com/teffcode)
+- **Diego de Granda** - [@degranda](https://twitter.com/degranda)
 
 ## Plataforma: Platzi 💚
-- **Platzi** [@platzi](https://twitter.com/platzi)
-- [Enlace a la web de Platzi](https://platzi.com/new-home/)
+- **Platzi** - [@platzi](https://twitter.com/platzi)
+- [Visita la web de Platzi](https://platzi.com/new-home/)
 
 > **Importante**
 >
@@ -25,4 +27,4 @@
 > - 😀 [EmojiKeyboard](https://emojikeyboard.top/)
 
 ## Mi Perfil en Platzi
-- [Mi perfil en Platzi 💚](https://platzi.com/p/julianacastilloaraujo/)
+- [Visita mi perfil en Platzi 💚](https://platzi.com/p/julianacastilloaraujo/)
