@@ -1,7 +1,7 @@
 # Curso de JavaScript desde Cero 💚
 
 ### Impartido por
-- 👩‍💻 [Estefany Aguilar (@teffcode)](https://twitter.com/teffcode)
+- 👩‍💻 [Estefany Aguilar (@teffcode)](https://github.com/teffcode)
 - 🧑‍💻 [Diego de Granda (@degranda)](https://twitter.com/degranda)
 
 [➡️ Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
