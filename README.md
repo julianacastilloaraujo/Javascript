@@ -2,7 +2,7 @@
 
 ### Impartido por
 - 👩‍💻 [Estefany Aguilar (@teffcode)](https://github.com/teffcode)
-- 🧑‍💻 [Diego de Granda (@degranda)](https://twitter.com/degranda)
+- 🧑‍💻 [Diego de Granda (@degranda)](https://github.com/degranda)
 
 [➡️ Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
