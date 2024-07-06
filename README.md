@@ -45,5 +45,3 @@
 
 Bienvenidos al curso de JavaScript desde Cero. Este curso está diseñado para llevarte de la mano desde los conceptos básicos hasta los fundamentos más avanzados del lenguaje JavaScript.<br>
 Con la guía de nuestros expertos, Estefany Aguilar y Diego de Granda, te convertirás en un desarrollador competente y seguro.
-
-Vamos a aprender y crecer juntos en esta maravillosa travesía del conocimiento. ¡Adelante! 
