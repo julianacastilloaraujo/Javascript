@@ -41,4 +41,4 @@
 
 ---
 
-### ¡Comencemos! 🚀
+### ¡Comencemos!
