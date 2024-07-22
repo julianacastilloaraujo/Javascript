@@ -6,7 +6,6 @@
 [➡️ Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
 ---
-
 ## Detalles del Curso
 - **79 clases | 9 módulos**
 - ¡Qué emocionante comenzar esta aventura 🚀!
