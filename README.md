@@ -12,7 +12,6 @@
 - Comencemos a aprender JavaScript 💛 con el curso **#CursoDeJavaScriptDesdeCero**
 
 ---
-
 ## Profesores de Platzi 🇨🇴🇲🇽
 - **Estefany Aguilar** - [@teffcode](https://twitter.com/teffcode)
 - **Diego de Granda** - [@degranda](https://twitter.com/degranda)
