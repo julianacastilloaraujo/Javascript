@@ -24,7 +24,6 @@
 - [Visita la web de Platzi](https://platzi.com/new-home/)
 
 ---
-
 > **Importante**
 > Herramientas usadas en el 1er módulo 💻:
 > - 👩‍💻 [Visual Studio Code](https://code.visualstudio.com/)
