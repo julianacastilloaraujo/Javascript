@@ -32,7 +32,6 @@
 > - 😀 [EmojiKeyboard](https://emojikeyboard.top/)
 
 ---
-
 ## Conéctate en Platzi
 - [Visita mi perfil en Platzi 💚](https://platzi.com/p/julianacastilloaraujo/)
 - Únete a la comunidad de estudiantes y sigue mi progreso.
