@@ -1,8 +1,8 @@
 # 🚀 Curso de JavaScript desde Cero 💚
 
 ## Impartido por
-- 👩‍💻 [Estefany Aguilar (@teffcode)](https://github.com/teffcode) - Ingeniera de Software y Desarrolladora Full Stack
-- 🧑‍💻 [Diego de Granda (@degranda)](https://github.com/degranda) - Experto en JavaScript y Frontend Developer
+- 👩‍💻🇨🇴 [Estefany Aguilar (@teffcode)](https://github.com/teffcode) - Ingeniera de Software y Desarrolladora Full Stack
+- 🧑‍💻🇲🇽 [Diego de Granda (@degranda)](https://github.com/degranda) - Experto en JavaScript y Frontend Developer
 
 [📚 Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
