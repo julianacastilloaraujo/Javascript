@@ -58,5 +58,3 @@ Para seguir el curso, se recomienda usar las siguientes herramientas:
 
 ---
 
-## 🎉 ¡No esperes más! Nunca pares de Aprender
-Inscríbete y comienza tu camino para convertirte en un experto en JavaScript. ¡Nos vemos en el curso!
