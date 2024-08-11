@@ -39,7 +39,7 @@
 - **Platzi** - [@platzi](https://twitter.com/platzi)  
   Plataforma educativa en línea que ofrece cursos en tecnología, negocios y más.
 
-[Visita la web de Platzi](https://platzi.com/new-home/)
+
 
 ---
 
