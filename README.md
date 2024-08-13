@@ -40,7 +40,6 @@
   Plataforma educativa en línea que ofrece cursos en tecnología, negocios y más.
 
 
-
 ---
 
 ## 🛠 Herramientas recomendadas
