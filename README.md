@@ -36,7 +36,7 @@
 ---
 
 ## 🎓 Plataforma de aprendizaje: Platzi 💚
-- **Platzi** - [@platzi](https://twitter.com/platzi)  
+- **Platzi** - [@platzi](https://platzi.com/home/)  
 
 ---
 
