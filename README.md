@@ -2,7 +2,6 @@
 ## Impartido por
 - 👩‍💻🇨🇴 [Estefany Aguilar (@teffcode)](https://github.com/teffcode) - Ingeniera y Desarrolladora Full Stack
 - 🧑‍💻🇲🇽 [Diego de Granda (@degranda)](https://github.com/degranda) - Experto en JavaScript y Frontend Developer
-
 [📚 Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
 ---
