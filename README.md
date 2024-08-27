@@ -31,8 +31,6 @@
 - **Diego de Granda** - [@degranda](https://twitter.com/degranda)  
   Desarrollador frontend con una gran pasión por JavaScript y la enseñanza de tecnologías web.
 
----
-
 ## 🎓 Plataforma de aprendizaje: Platzi 💚
 - **Platzi** - [@platzi](https://platzi.com/home/)  
 ---
