@@ -29,7 +29,6 @@
 
 ## 🎓 Plataforma de aprendizaje: Platzi 💚
 - **Platzi** - [@platzi](https://platzi.com/home/)  
----
 
 ## 🛠 Herramientas recomendadas
 Para seguir el curso, se recomienda usar las siguientes herramientas:
