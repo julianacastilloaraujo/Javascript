@@ -19,7 +19,6 @@
 - **Eventos y Asincronía**: Manejo de eventos y programación asincrónica con Promesas y async/await.
 - **Herramientas modernas**: Uso de herramientas de desarrollo como Babel y Webpack.
 
----
 
 ## 🌟 Profesores de Platzi
 - **Estefany Aguilar** - [@teffcode](https://twitter.com/teffcode)  
