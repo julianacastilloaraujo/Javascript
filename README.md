@@ -4,8 +4,6 @@
 - 🧑‍💻🇲🇽 [Diego de Granda (@degranda)](https://github.com/degranda) - Experto en JavaScript y Frontend Developer <br>
 [📚 Accede al Curso de JavaScript desde Cero en Platzi](https://platzi.com/cursos/javascript-fundamentos/)
 
----
-
 ## 📝 Detalles del Curso
 - **Duración:** 79 clases repartidas en 9 módulos intensivos.
 - **Nivel:** Principiantes - ¡No necesitas experiencia previa!
