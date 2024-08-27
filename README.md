@@ -12,7 +12,6 @@
 - **Objetivo:** Dominar los fundamentos de JavaScript y empezar a crear tus propias aplicaciones web.
 - **Fecha de inicio:** Inscripción abierta durante todo el año.
 
----
 
 ## ✨ ¿Qué aprenderás?
 - **Fundamentos de JavaScript**: Sintaxis, variables, tipos de datos, operadores y más.
