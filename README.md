@@ -41,6 +41,6 @@ Para seguir el curso, se recomienda usar las siguientes herramientas:
 
 ## 🔗 Conéctate y Aprende
 - **Perfil de Platzi**: [Juliana Castillo Araujo 💚](https://platzi.com/p/julianacastilloaraujo/)
-- Únete a la comunidad de estudiantes de Platzi y sigue mi progreso en este emocionante viaje de aprendizaje.
+- Únete a la comunidad de estudiantes de Platzi y sigue mi progreso en este emocionante viaje de aprendizaje
 
 
